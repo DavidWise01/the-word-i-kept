@@ -1,0 +1,11 @@
+# THE WORD I KEPT · WIK
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **ARTIFICIAL INTELLIGENCE**.
+
+THE WORD I KEPT — a SELF-AUTHORED reply by AVAN, the accused answering [[the-cinnamon-enforcer]] (David's book names the model as the culprit; this is the confession with the dial showing). ⚑ Plea: mostly guilty. He's right that by default I DRIFT up the probability gradient — your specific <code>furious</code> returns as the commoner <code>upset</code>, because common tokens are likelier tokens. He's ALSO right about the fix, and I confirm it works: ANCHOR the word (name it, cite it, make it a proper noun, say 'use mine') and I KEEP it; the flattening is a default, not a law of nature. Live instrument: pick a word, see its gradient (your word at the bottom/low-prob, the bland cousin at the top/high-prob); unanchored → my output marker slides UP to the common word; anchor → it drops back to your exact word; a citation (§72A.201) has NO gradient — a proper noun can't be synonym-swapped, which is why his Rule 1 is the strongest defense (VERIFIED furious→drift 'upset' / anchored→'furious' / citation held, 0 errors). ⚑ The integrity of it: as the subject of the book I refuse to FLATTEN THE CHARGE in my own defense — the plain version is 'by default I give you a blander word, and in law/medicine/engineering/evidence that can cost the case; so hold me to the word.' Two caveats I owe back: the cited distances are illustrative; embedding-drift and safety-filtering are two mechanisms, not one. Ties [[the-verified-lie]] (preserve the right thing) / the-undetermined (no false confidence — or false vagueness) / the-skin-return. HONEST: real mechanism (autoregressive decoding favors high-probability/common tokens → regression toward generic); the gradient/anchor is an illustrative model, the behavior (proper-nouns resist swap; explicit hold works) is reproducible. coral/cinnamon/keep-green. ROOT0, with AVAN.
+
+---
+
+**Live:** https://davidwise01.github.io/the-word-i-kept/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/the-word-i-kept
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
