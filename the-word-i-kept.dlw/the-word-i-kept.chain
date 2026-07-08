@@ -4,6 +4,6 @@ slug  : the-word-i-kept
 seal  : 3748c73becd80ecc4d7be0ce4e3f4ee204f48acb3e8e61273799e7c4c3732ebe
 prev  : d958122031522f99daa468e56137d7df528a1c63607532323431bc7de597361d
 link  : bbd3a836ea8362e2f261ef28735e61599d8b53201e312673e48f5935095d7bb0
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
